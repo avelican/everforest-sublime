@@ -1,4 +1,4 @@
-# Everforest theme 
+# Everforest theme for Sublime Text
 
 ![Screenshot](Screenshot.jpg?raw=true)
 

@@ -1,5 +1,7 @@
 # Everforest theme 
 
+![Screenshot](Screenshot.jpg?raw=true)
+
 Original: https://github.com/sainnhe/everforest/
 
 Converted from VSCode version https://github.com/sainnhe/everforest-vscode 
